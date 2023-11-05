@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  SkeletonMoviesSwiftUI
+
+  Created by Jesus Calleja Rodriguez on 2/11/23.
+  
+*/
+
+/* General */
+"app_title" = "Skeleton Movies";
+"accept" = "Accept";
+
+/* Onboarding */
+"onboarding_first_title" = "Welcome!";
+"onboarding_second_title" = "Filter Movies";
+"onboarding_third_title" = "Research Movies";
+"onboarding_first_description" = "Skeleton Movies is your ultimate app for discovering and exploring your favorite movies";
+"onboarding_second_description" = "Find movies by title using the search bar";
+"onboarding_third_description" = "Discover the details of your favorite movies!";
+
+/* Movies List */
+"movies_list_loading" = "Loading movies...";
+"search_movies" = "Search Movies by title";
+"release_date" = "Release date: ";
+
+/* Movie Detail */
+"unknown" = "Unknown";
+"movie_detail_title" = "Movie Detail";
+
