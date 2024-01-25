@@ -11,6 +11,7 @@ import SwiftUI
 struct SkeletonMoviesSwiftUIApp: App {
     
     // MARK: Public properties
+    // test github
     
     @ObservedObject var router = Router()
     
