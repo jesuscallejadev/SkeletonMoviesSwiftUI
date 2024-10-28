@@ -8,6 +8,8 @@
 import Foundation
 
 struct Localize {
+    
+    //MARK: git test
 
     func get(_ key: String) -> String {
         return NSLocalizedString(key, comment: "")
